@@ -17,7 +17,7 @@ Implementar técnicas de seleção de atributos utilizando o método do LASSO, p
 
 Linguagem de Programação: Python
 
-Biblioteca: Pandas
+Biblioteca: Pandas, Numpy
 
 Ferramenta: Colab 
 
